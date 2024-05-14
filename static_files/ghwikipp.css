@@ -183,7 +183,8 @@ hr {
 
   .wikitopbanner,
   .anchorText,
-  .wikibottombanner {
+  .wikibottombanner,
+  .viewtoolbar {
     display: none;
   }
 }
